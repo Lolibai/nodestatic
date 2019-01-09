@@ -1,0 +1,25 @@
+{
+  "name": "staticnodejs",
+  "version": "1.0.0",
+  "description": "SSR Static",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lolibai/nodestatic.git"
+  },
+  "keywords": [
+    "ssr"
+  ],
+  "author": "lolibai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lolibai/nodestatic/issues"
+  },
+  "homepage": "https://github.com/Lolibai/nodestatic#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
